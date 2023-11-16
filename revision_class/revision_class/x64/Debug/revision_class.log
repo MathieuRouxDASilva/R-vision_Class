@@ -1,0 +1,6 @@
+﻿  Ball.cpp
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\revision_class\revision_class\Ball.cpp(30,28): warning C4244: '*=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+  Game.cpp
+  revision_class.cpp
+  Génération de code en cours...
+  revision_class.vcxproj -> C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\revision_class\x64\Debug\revision_class.exe
